@@ -1,0 +1,10 @@
+.wrapper {
+    margin: 8px;
+}
+
+/* 横の入力補助を無効化*/
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}

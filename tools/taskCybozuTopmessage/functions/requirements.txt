@@ -1,0 +1,6 @@
+Flask==1.0.2
+requests
+BeautifulSoup4
+html5lib
+sendgrid
+google-cloud-datastore==1.12.0
